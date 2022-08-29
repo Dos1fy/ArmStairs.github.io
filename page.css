@@ -37646,7 +37646,7 @@ a.u-link.u-text-hover-grey-90:hover {
         h3
         {
         font-weight: 400;
-        font-size: 1.875rem;
+        font-size: 2.875rem;
         line-height: 1.2;
         margin-top: 20px;
         margin-bottom: 20px;
@@ -37750,7 +37750,7 @@ a.u-link.u-text-hover-grey-90:hover {
         @media (max-width: 575px) {
         h1:not(.u-title)
         {
-        font-size: 1.875rem;
+        font-size: 2.875rem;
         }
         }
         @media (max-width: 575px) {

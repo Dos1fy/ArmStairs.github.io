@@ -22487,7 +22487,7 @@ h6 {
 }
 .u-body {
   color: #f15656;
-  background-color: #ffffff;
+  background-color: #e7e7e7;
   --effect-scale: 1.1;
 }
 /*end-variables color*/
@@ -27603,7 +27603,7 @@ section.u-grey-5:before,
 .u-container-layout.u-container-layout.u-grey-5:before,
 .u-table-alt-grey-5 tr:nth-child(even) {
   color: #f15656;
-  background-color: #f2f2f2;
+  background-color: #e7e7e7;
 }
 .u-button-style.u-grey-5,
 .u-button-style.u-grey-5[class*="u-border-"] {

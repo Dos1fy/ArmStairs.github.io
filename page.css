@@ -3,7 +3,9 @@
  * License https://froala.com/wysiwyg-editor/terms/
  * Copyright 2014-2021 Froala Labs
  */
-
+body{
+  background-color: cccc;
+}
 .img {
   width: 60px; 
   height:4px;
@@ -1097,6 +1099,7 @@ ol {
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
+  color: ff3300;
 }
 .u-text:not(ul):not(ol):not(p):not(.u-post-content):not(.u-block-content):not(.u-product-desc):not(.u-cart-block-content):not(.u-checkout-block-content) a {
   color: inherit;
@@ -22483,7 +22486,7 @@ h6 {
   color: #ffffff;
 }
 .u-body {
-  color: #111111;
+  color: #f15656;
   background-color: #ffffff;
   --effect-scale: 1.1;
 }
@@ -27599,7 +27602,7 @@ section.u-grey-5:before,
 .u-grey-5.u-sidenav:before,
 .u-container-layout.u-container-layout.u-grey-5:before,
 .u-table-alt-grey-5 tr:nth-child(even) {
-  color: #111111;
+  color: #f15656;
   background-color: #f2f2f2;
 }
 .u-button-style.u-grey-5,
@@ -37918,6 +37921,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-text-1 {
+  color: ff3300;
   margin: 37px auto;
 }
 
